@@ -7,5 +7,8 @@ This goes well with any dark/steel blue theme, but was designed with http://gnom
 
 Enjoy!
 
+# Screenshot
+![](http://gnome-look.org/CONTENT/content-pre1/129732-1.png)
+
 # Credits to 
 [Invetero](http://gnome-look.org/usermanager/search.php?username=Invetero)
